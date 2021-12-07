@@ -1,3 +1,3 @@
-# Digital_House
+# Aulas
 
-#Disponibilização dos scripts utilizados em aula.
+Disponibilização dos scripts utilizados em aula.
